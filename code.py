@@ -1,4 +1,4 @@
-fruits = ["mango","watermelon","manderine","apple","banana"]
+fruits = ["Mango","Watermelon","Tangerine","Apple","Banana"]
 for x in fruits:
-  print(x, " ")
-print('Hello world!')
+  print("I like ", x)
+print('Hello World!')
